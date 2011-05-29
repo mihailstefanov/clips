@@ -8,15 +8,25 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "lib", "lib", "{0DCDCCF1-C80
 		lib\Mommosoft.ExpertSystem.dll = lib\Mommosoft.ExpertSystem.dll
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SudokuDemo", "samples\SudokuDemo\SudokuDemo.csproj", "{E6968973-93ED-4FDD-AE08-DF8FD36579A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WineDemo", "samples\WineDemo\WineDemo.csproj", "{72C22136-7AED-4B3D-9617-E484D1DDA5B5}"
+EndProject
 Global
 	GlobalSection(TeamFoundationVersionControl) = preSolution
-		SccNumberOfProjects = 2
+		SccNumberOfProjects = 4
 		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
 		SccTeamFoundationServer = https://tfs.codeplex.com/tfs/tfs07
 		SccLocalPath0 = .
 		SccProjectUniqueName1 = samples\\AutoDemo\\AutoDemo.csproj
 		SccProjectName1 = samples/AutoDemo
 		SccLocalPath1 = samples\\AutoDemo
+		SccProjectUniqueName2 = samples\\WineDemo\\WineDemo.csproj
+		SccProjectName2 = samples/WineDemo
+		SccLocalPath2 = samples\\WineDemo
+		SccProjectUniqueName3 = samples\\SudokuDemo\\SudokuDemo.csproj
+		SccProjectName3 = samples/SudokuDemo
+		SccLocalPath3 = samples\\SudokuDemo
 	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -27,6 +37,14 @@ Global
 		{9F2EA6C3-85E6-4137-AC17-26378D84F1D9}.Debug|x86.Build.0 = Debug|x86
 		{9F2EA6C3-85E6-4137-AC17-26378D84F1D9}.Release|x86.ActiveCfg = Release|x86
 		{9F2EA6C3-85E6-4137-AC17-26378D84F1D9}.Release|x86.Build.0 = Release|x86
+		{E6968973-93ED-4FDD-AE08-DF8FD36579A2}.Debug|x86.ActiveCfg = Debug|x86
+		{E6968973-93ED-4FDD-AE08-DF8FD36579A2}.Debug|x86.Build.0 = Debug|x86
+		{E6968973-93ED-4FDD-AE08-DF8FD36579A2}.Release|x86.ActiveCfg = Release|x86
+		{E6968973-93ED-4FDD-AE08-DF8FD36579A2}.Release|x86.Build.0 = Release|x86
+		{72C22136-7AED-4B3D-9617-E484D1DDA5B5}.Debug|x86.ActiveCfg = Debug|x86
+		{72C22136-7AED-4B3D-9617-E484D1DDA5B5}.Debug|x86.Build.0 = Debug|x86
+		{72C22136-7AED-4B3D-9617-E484D1DDA5B5}.Release|x86.ActiveCfg = Release|x86
+		{72C22136-7AED-4B3D-9617-E484D1DDA5B5}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
