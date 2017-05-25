@@ -1,3 +1,5 @@
+![](clips.png)
+
 **Project Description**
 CLIPS.NET is  .NET   managed interface for CLIPS (C Language Integrated Production System)
 
